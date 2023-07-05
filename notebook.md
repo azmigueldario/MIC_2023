@@ -1,4 +1,3 @@
-
 ## Environment setup
 
 Login into AWS instance for the workshop
